@@ -166,8 +166,4 @@ Planned improvements for future versions:
 * Add Swagger/OpenAPI documentation
 * Add unit and integration tests
 
-## 👨‍💻 Author
-
-**Madhav Rao**
-
-This project is part of my journey to strengthen my **Java, Spring Boot, and backend development** skills through hands-on projects.
+**Day 3/50 — Java + Spring Boot Mini Project Challenge 🚀**
